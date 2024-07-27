@@ -1,0 +1,148 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="87">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="1" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="2" class="java.lang.String" itemvalue="Pillow" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="5" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="6" class="java.lang.String" itemvalue="uritemplate" />
+            <item index="7" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="8" class="java.lang.String" itemvalue="botocore" />
+            <item index="9" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="10" class="java.lang.String" itemvalue="maxminddb" />
+            <item index="11" class="java.lang.String" itemvalue="asgiref" />
+            <item index="12" class="java.lang.String" itemvalue="packaging" />
+            <item index="13" class="java.lang.String" itemvalue="drf-yasg" />
+            <item index="14" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="15" class="java.lang.String" itemvalue="jmespath" />
+            <item index="16" class="java.lang.String" itemvalue="boto3" />
+            <item index="17" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="18" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="19" class="java.lang.String" itemvalue="backports.zoneinfo" />
+            <item index="20" class="java.lang.String" itemvalue="Django" />
+            <item index="21" class="java.lang.String" itemvalue="zipp" />
+            <item index="22" class="java.lang.String" itemvalue="certifi" />
+            <item index="23" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="24" class="java.lang.String" itemvalue="olefile" />
+            <item index="25" class="java.lang.String" itemvalue="urllib3" />
+            <item index="26" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="27" class="java.lang.String" itemvalue="inflection" />
+            <item index="28" class="java.lang.String" itemvalue="django-celery-beat" />
+            <item index="29" class="java.lang.String" itemvalue="celery" />
+            <item index="30" class="java.lang.String" itemvalue="amqp" />
+            <item index="31" class="java.lang.String" itemvalue="kombu" />
+            <item index="32" class="java.lang.String" itemvalue="vine" />
+            <item index="33" class="java.lang.String" itemvalue="billiard" />
+            <item index="34" class="java.lang.String" itemvalue="redis" />
+            <item index="35" class="java.lang.String" itemvalue="django-solo" />
+            <item index="36" class="java.lang.String" itemvalue="tqdm" />
+            <item index="37" class="java.lang.String" itemvalue="scipy" />
+            <item index="38" class="java.lang.String" itemvalue="python-crfsuite" />
+            <item index="39" class="java.lang.String" itemvalue="sklearn-crfsuite" />
+            <item index="40" class="java.lang.String" itemvalue="joblib" />
+            <item index="41" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="42" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="43" class="java.lang.String" itemvalue="tabulate" />
+            <item index="44" class="java.lang.String" itemvalue="pyvi" />
+            <item index="45" class="java.lang.String" itemvalue="numpy" />
+            <item index="46" class="java.lang.String" itemvalue="dnspython" />
+            <item index="47" class="java.lang.String" itemvalue="selenium" />
+            <item index="48" class="java.lang.String" itemvalue="django-celery-results" />
+            <item index="49" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="50" class="java.lang.String" itemvalue="pytz" />
+            <item index="51" class="java.lang.String" itemvalue="bs4" />
+            <item index="52" class="java.lang.String" itemvalue="greenlet" />
+            <item index="53" class="java.lang.String" itemvalue="python-crontab" />
+            <item index="54" class="java.lang.String" itemvalue="cffi" />
+            <item index="55" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="56" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="57" class="java.lang.String" itemvalue="pycparser" />
+            <item index="58" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="59" class="java.lang.String" itemvalue="eventlet" />
+            <item index="60" class="java.lang.String" itemvalue="cron-descriptor" />
+            <item index="61" class="java.lang.String" itemvalue="gevent" />
+            <item index="62" class="java.lang.String" itemvalue="prometheus_client" />
+            <item index="63" class="java.lang.String" itemvalue="zope.event" />
+            <item index="64" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="65" class="java.lang.String" itemvalue="confluent-kafka" />
+            <item index="66" class="java.lang.String" itemvalue="pymongo" />
+            <item index="67" class="java.lang.String" itemvalue="six" />
+            <item index="68" class="java.lang.String" itemvalue="tornado" />
+            <item index="69" class="java.lang.String" itemvalue="prompt_toolkit" />
+            <item index="70" class="java.lang.String" itemvalue="tzdata" />
+            <item index="71" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="72" class="java.lang.String" itemvalue="click" />
+            <item index="73" class="java.lang.String" itemvalue="flower" />
+            <item index="74" class="java.lang.String" itemvalue="install" />
+            <item index="75" class="java.lang.String" itemvalue="colorama" />
+            <item index="76" class="java.lang.String" itemvalue="django-timezone-field" />
+            <item index="77" class="java.lang.String" itemvalue="pillow" />
+            <item index="78" class="java.lang.String" itemvalue="humanize" />
+            <item index="79" class="java.lang.String" itemvalue="click-repl" />
+            <item index="80" class="java.lang.String" itemvalue="pika" />
+            <item index="81" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="82" class="java.lang.String" itemvalue="geoip2" />
+            <item index="83" class="java.lang.String" itemvalue="ua-parser" />
+            <item index="84" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="85" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="86" class="java.lang.String" itemvalue="google-auth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="set.append" />
+          <option value="list.items" />
+          <option value="django.db.models.fields.TextField.__add__" />
+          <option value="core.models.MailingTask.objects" />
+          <option value="core.models.MissingMailingTask.*" />
+          <option value="core.models.EventLog.objects" />
+          <option value="core.models.ScheduledResult.objects" />
+          <option value="core.models.FailWebHook.objects" />
+          <option value="core.models.ValidatingTask.objects" />
+          <option value="core.models.Membership.objects" />
+          <option value="core.models.Attachment.objects" />
+          <option value="core.models.Domain.DoesNotExist" />
+          <option value="django.contrib.auth.models.User.DoesNotExist" />
+          <option value="core.models.Domain.objects" />
+          <option value="core.models.Contact.objects" />
+          <option value="core.models.ProviderStatisticsLog.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.get_list_of_attachment_files" />
+          <option value="django.db.models.fields.related.ForeignKey.from_addr" />
+          <option value="django.db.models.fields.related.ForeignKey.pk" />
+          <option value="django.db.models.fields.related.ForeignKey.task_type" />
+          <option value="core.models.BackendService.objects" />
+          <option value="core.models.PartTask.objects" />
+          <option value="core_smtp.models.MailingTaskSMTP.id" />
+          <option value="core.tasks.process_mailing.request" />
+          <option value="django.db.models.fields.related.ForeignKey.backend_services" />
+          <option value="core.tasks.process_mailing.retry" />
+          <option value="django.db.models.fields.related.ForeignKey.addr" />
+          <option value="django.db.models.fields.related.ForeignKey.bcc_addrs" />
+          <option value="core.models.ProviderStatisticsLog._meta" />
+          <option value="django.db.models.fields.related.ForeignKey.to_addrs" />
+          <option value="django.db.models.fields.related.ForeignKey.get_list_of_attachments" />
+          <option value="core.tasks.process_mailing.apply_async" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
